@@ -10,3 +10,10 @@ Analytics:
 
 GTM identifier is located in the GTM website:
 1- Select container --> Admin --> Install GTM container --> Copy the GTM ID
+
+
+# FORMATTING
+
+## PRETTIER
+
+## ESLINT
